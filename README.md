@@ -21,7 +21,7 @@ The system was designed to process images captured by cameras, performing real-t
 ## 📸 Visual References
 
 ### System Input (Original Image)
-<img src="https://github.com/jrafa1607/Computational-Vision-In-Python/blob/main/Digital%20Clock%20Solution/Anexos/svc.jpeg" width="400">
+<img src="https://github.com/jrafa1607/Digital_Gauge_Solution_CV/blob/main/Attachments/svc.jpeg" width="400">
 
 ### System Output (Processed Data)
 <img src="https://github.com/jrafa1607/Digital_Gauge_Solution_CV/blob/main/Attachments/result.jpeg">
