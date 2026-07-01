@@ -27,11 +27,31 @@ The system was designed to process images captured by cameras, performing real-t
 <img src="https://github.com/jrafa1607/Computational-Vision-In-Python/blob/main/Digital%20Clock%20Solution/Anexos/Resultado.jpeg" width="400">
 
 ---
+### 📋 Reference Key (Test Data)
+The table below presents the ground truth values for each image analyzed in the dataset.
 
-## 📋 Test Reference (Ground Truth)
-Below is the comparison used to validate the accuracy of the reading algorithm.
-
-<img src="https://github.com/jrafa1607/Computational-Vision-In-Python/blob/main/Digital%20Clock%20Solution/Anexos/Gabarito.jpeg" width="600">
+| Name File | Values |
+| :--- | :---: |
+| img01.BMP | 63063 |
+| img02.BMP | 00692 |
+| img03.BMP | 03446 |
+| img04.BMP | 04392 |
+| img05.BMP | 05276 |
+| img06.BMP | 06579 |
+| img07.BMP | 07584 |
+| img08.BMP | 07670 |
+| img09.BMP | 07999 |
+| img10.BMP | 08450 |
+| img11.BMP | 09905 |
+| img12.BMP | 10370 |
+| img13.BMP | 11253 |
+| img14.BMP | 12147 |
+| img15.BMP | 12217 |
+| img16.BMP | 12436 |
+| img17.BMP | 16012 |
+| img18.BMP | 18883 |
+| img19.BMP | 19526 |
+| img20.BMP | 22217 |
 
 ---
 
