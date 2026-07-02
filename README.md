@@ -5,7 +5,7 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green?logo=opencv)](https://opencv.org/)
 
 ## 📝 Project Description
-The **Digital Clock Solution** is a Computer Vision System (CVS) developed to optimize data collection from digital pressure gauges. The system automates the display reading process, eliminating human error and ensuring agility in capturing critical values in industrial or laboratory environments.
+The **Digital Clock Solution** is a Computer Vision System developed to optimize data collection from digital pressure gauges. The system automates the display reading process, eliminating human error and ensuring agility in capturing critical values in industrial or laboratory environments.
 
 ---
 
