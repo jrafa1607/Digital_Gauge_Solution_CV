@@ -42,16 +42,6 @@ The table below presents the ground truth values for each image analyzed in the 
 | img08.BMP | 07670 |
 | img09.BMP | 07999 |
 | img10.BMP | 08450 |
-| img11.BMP | 09905 |
-| img12.BMP | 10370 |
-| img13.BMP | 11253 |
-| img14.BMP | 12147 |
-| img15.BMP | 12217 |
-| img16.BMP | 12436 |
-| img17.BMP | 16012 |
-| img18.BMP | 18883 |
-| img19.BMP | 19526 |
-| img20.BMP | 22217 |
 
 ---
 
