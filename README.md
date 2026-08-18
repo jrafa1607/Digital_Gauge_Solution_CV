@@ -20,9 +20,6 @@ The system was designed to process images captured by cameras, performing real-t
 
 ### 📸 Visual References
 
-#### System Input (Original Image)
-<img src="https://github.com/jrafa1607/Digital_Gauge_Solution_CV/blob/main/Attachments/svc.jpeg">
-
 #### System Output (Processed Data)
 <img src="https://github.com/jrafa1607/Digital_Gauge_Solution_CV/blob/main/Attachments/result.jpeg">
 
