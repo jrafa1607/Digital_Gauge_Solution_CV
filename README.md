@@ -1,15 +1,15 @@
-# ⏰ Digital Clock Solution - Automatic Gauge Reader
+## ⏰ Digital Clock Solution - Automatic Gauge Reader
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green?logo=opencv)](https://opencv.org/)
 
-## 📝 Project Description
+### 📝 Project Description
 The **Digital Clock Solution** is a Computer Vision System developed to optimize data collection from digital pressure gauges. The system automates the display reading process, eliminating human error and ensuring agility in capturing critical values in industrial or laboratory environments.
 
 ---
 
-## 🎯 Objectives
+### 🎯 Objectives
 The system was designed to process images captured by cameras, performing real-time character recognition and applying the following rules:
 
 - [x] **Digit Recognition:** Precise identification of the numbers displayed.
@@ -18,12 +18,12 @@ The system was designed to process images captured by cameras, performing real-t
 
 ---
 
-## 📸 Visual References
+### 📸 Visual References
 
-### System Input (Original Image)
+#### System Input (Original Image)
 <img src="https://github.com/jrafa1607/Digital_Gauge_Solution_CV/blob/main/Attachments/svc.jpeg">
 
-### System Output (Processed Data)
+#### System Output (Processed Data)
 <img src="https://github.com/jrafa1607/Digital_Gauge_Solution_CV/blob/main/Attachments/result.jpeg">
 
 ---
@@ -45,7 +45,7 @@ The table below presents the ground truth values for each image analyzed in the 
 
 ---
 
-## 🛠 Technologies Used
+### 🛠 Technologies Used
 * **Language:** Python
 * **Main Library:** OpenCV
 * **Concepts:** Image pre-processing, Character recognition, Thresholding, Contour detection.
