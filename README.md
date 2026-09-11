@@ -48,3 +48,10 @@ The table below presents the ground truth values for each image analyzed in the 
 * **Concepts:** Image pre-processing, Character recognition, Thresholding, Contour detection.
 
 ---
+
+#### ⚖️ Intellectual Property (IP) Notice
+All source code, documentation, and research methodologies contained in this repository are the exclusive Intellectual Property of the author. All rights reserved. Use of this content for academic or professional purposes must include proper citation and attribution to the original research.
+
+**Copyright © 2026 João Rafael.**
+
+---
